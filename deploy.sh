@@ -1,4 +1,4 @@
-rm -rf  /var/www/html/index.html
-cp ./index.html /var/www/html/
+rm -rf  /usr/local/apache2/htdocs/index.html
+cp ./index.html /usr/local/apache2/htdocs
 echo "deployment complete" 
 
